@@ -35,7 +35,7 @@ Apache Spark is a lightning-fast cluster computing technology, designed for fast
 - What is Transform and Action
 
 ## Slides
-[Spark]()
+[Spark](https://github.com/commit-live-students/big_data_spark_in_class/blob/master/notebooks/spark_Day-5.pdf)
 
 
 ## Post Reads
