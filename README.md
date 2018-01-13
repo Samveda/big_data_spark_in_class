@@ -13,7 +13,7 @@ Apache Spark is a lightning-fast cluster computing technology, designed for fast
 ## In Class Activity
 
 * Installation of Spark
-* Hands-on exercise with datasets
+* Hands-on exercise with [datasets](https://github.com/commit-live-students/big_data_spark_in_class/tree/master/data)
 
 
 ## Pre Reads
